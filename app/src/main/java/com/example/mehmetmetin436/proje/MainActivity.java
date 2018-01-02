@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
     public boolean onOptionsItemSelected(MenuItem item){
+
         switch (item.getItemId()) {
             case R.id.anasayafa:
                 Intent intent3=new Intent(this,AnasayfaActivity.class);

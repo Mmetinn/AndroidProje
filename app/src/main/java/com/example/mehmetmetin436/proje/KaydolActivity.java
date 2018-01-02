@@ -89,10 +89,7 @@ public class KaydolActivity extends MainActivity {
                     final InputStream imageStream = getContentResolver().openInputStream(imageUri);
                     final Bitmap selectedImage = BitmapFactory.decodeStream(imageStream);
 
-                    //set profile picture form gallery
                     kulFoto.setImageBitmap(selectedImage);
-
-
                 } catch (FileNotFoundException e) {
                     e.printStackTrace();
                 }

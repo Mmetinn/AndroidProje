@@ -176,6 +176,8 @@ public class ProfileActivity extends MainActivity {
                 AlertDialog alert = builder.create();
                 alert.setTitle(R.string.uyari);
                 alert.show();
+            }else{
+                Toast.makeText(this, R.string.sifre_uyusmuyor, Toast.LENGTH_SHORT).show();
             }
         }
     }

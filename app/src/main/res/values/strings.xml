@@ -44,6 +44,7 @@
     <string name="kapat">Uygulamayı kapatmak istediğinizden emin misiniz?</string>
     <string name="onay">Güncellemelerin uygulanabilmesi için giriş ekranına yönlendirileceksiniz.Onaylıyor musunuz?</string>
     <string name="degistir">Bir değişiklik yapmadınız lütfen bir değişiklik yapınız.</string>
+    <string name="sifre_uyusmuyor">Şifreler uyuşmuyor tekrar deneyiniz.</string>
 
 
 </resources>

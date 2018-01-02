@@ -1,58 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/metin/Masaüstü/en_yeni/AndroidProje/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\metin\\Desktop\\projemm\\LibraryAutomationAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cc4206add3cb09c20535188b77cecc39/res/values-hdpi-v4/values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/mustafaaats/Desktop/Mobil/AndroidProje/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "/home/mustafaaats/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/eff5c655585c2afacac20afb3794f96c/res/values-hdpi-v4/values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/metin/Masaüstü/yeniKutup/AndroidProje/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cc4206add3cb09c20535188b77cecc39/res/values-hdpi-v4/values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/metin/Masaüstü/AndroidKutuphane/LibraryAutomationAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cc4206add3cb09c20535188b77cecc39/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "C:\\Users\\metin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ebc6dfc166135916efb88bc34e2d6a8d\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

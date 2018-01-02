@@ -1,4 +1,4 @@
-#Sun Dec 31 15:49:12 EET 2017
-base.0=/home/mustafaaats/Desktop/Mobil/AndroidProje/app/build/intermediates/transforms/dexMerger/debug/56
+#Wed Jan 03 01:48:05 EET 2018
+base.0=C\:\\Users\\metin\\Desktop\\projemm\\LibraryAutomationAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

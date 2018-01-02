@@ -1,78 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/metin/Masaüstü/yeniKutup/AndroidProje/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "C:\\Users\\metin\\Desktop\\projemm\\LibraryAutomationAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/27ec43ba9f52898e70cc6b226d375c07/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cc4206add3cb09c20535188b77cecc39/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/metin/Masaüstü/en_yeni/AndroidProje/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
-            "map": [
-                {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/27ec43ba9f52898e70cc6b226d375c07/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cc4206add3cb09c20535188b77cecc39/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/mustafaaats/Desktop/Mobil/AndroidProje/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
-            "map": [
-                {
-                    "source": "/home/mustafaaats/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/eff5c655585c2afacac20afb3794f96c/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\metin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ebc6dfc166135916efb88bc34e2d6a8d\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -91,47 +23,13 @@
                     }
                 },
                 {
-                    "source": "/home/mustafaaats/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061579fadcf0222919dd7ee3f5bbdd1b/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\metin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\6e3a8e1a9d95fcf267947038720a6830\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "65",
                         "endOffsets": "116"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/metin/Masaüstü/AndroidKutuphane/LibraryAutomationAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
-            "map": [
-                {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/27ec43ba9f52898e70cc6b226d375c07/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/home/metin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cc4206add3cb09c20535188b77cecc39/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
                     }
                 }
             ]

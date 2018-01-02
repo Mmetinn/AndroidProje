@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Sun Dec 31 13:49:45 EET 2017
+#Wed Jan 03 01:48:05 EET 2018
 0.baseType=DIRECTORY
-0.base=/home/mustafaaats/Desktop/Mobil/AndroidProje/app/build/intermediates/transforms/dexMerger/debug/56
+0.base=C\:\\Users\\metin\\Desktop\\projemm\\LibraryAutomationAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

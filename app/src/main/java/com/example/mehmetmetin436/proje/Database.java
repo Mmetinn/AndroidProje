@@ -93,6 +93,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.view.View;
 import android.widget.Toast;
 
+import java.nio.ByteBuffer;
 import java.util.ArrayList;
 
 /**
@@ -245,7 +246,6 @@ public class Database extends SQLiteOpenHelper {
         if(cursor.moveToFirst()){
             a=cursor.getBlob(0);
         }
-
         return a;
     }
 

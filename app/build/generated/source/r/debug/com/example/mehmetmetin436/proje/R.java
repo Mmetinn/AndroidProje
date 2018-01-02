@@ -2940,10 +2940,11 @@ public final class R {
   public static final class mipmap {
     public static final int ic_launcher=0x7f0b0000;
     public static final int ic_launcher_foreground=0x7f0b0001;
-    public static final int ic_launcher_iconn=0x7f0b0002;
+    public static final int ic_launcher_icon=0x7f0b0002;
     public static final int ic_launcher_notification=0x7f0b0003;
     public static final int ic_launcher_notification_round=0x7f0b0004;
     public static final int ic_launcher_round=0x7f0b0005;
+    public static final int ic_launcher_userin=0x7f0b0006;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0c0000;
@@ -3019,11 +3020,12 @@ public final class R {
     public static final int profil_goruntule=0x7f0c0046;
     public static final int resimEkle=0x7f0c0047;
     public static final int search_menu_title=0x7f0c0048;
-    public static final int soyad=0x7f0c0049;
-    public static final int status_bar_notification_info_overflow=0x7f0c004a;
-    public static final int uyari=0x7f0c004b;
-    public static final int uyg_kapat=0x7f0c004c;
-    public static final int yazarAd=0x7f0c004d;
+    public static final int sifre_uyusmuyor=0x7f0c0049;
+    public static final int soyad=0x7f0c004a;
+    public static final int status_bar_notification_info_overflow=0x7f0c004b;
+    public static final int uyari=0x7f0c004c;
+    public static final int uyg_kapat=0x7f0c004d;
+    public static final int yazarAd=0x7f0c004e;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0d0000;

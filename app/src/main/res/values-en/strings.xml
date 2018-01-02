@@ -45,4 +45,5 @@
     <string name="bekle1">Logging out.Please wait...</string>
     <string name="profilResmi">Add Profile Photo</string>
     <string name="degistir">Please make a change if you have not made a change.</string>
+    <string name="sifre_uyusmuyor">Password do not match.Try again.</string>
 </resources>
